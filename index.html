@@ -1,0 +1,61 @@
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>壹口袋</title>
+    <meta name="viewport"
+          content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no">
+    <script>
+        function download() {
+            var agent = window.navigator.userAgent
+            var url = 'https://itunes.apple.com/cn/app/id1446854685?mt=8'
+            if (/android/i.test(agent)) {
+                if (/MicroMessenger/i.test(agent)) return alert('请在浏览器中打开此链接')
+                url = 'http://papahua.oss-cn-beijing.aliyuncs.com/wb_v1.0.0_100_pph_huawei.apk'
+            }
+            location.href = url
+            console.log('download')
+        }
+    </script>
+</head>
+<body style="margin: 0; background: #ca3b49;">
+<div style="max-width: 700px; margin: 0 auto;">
+    <input placeholder='请输入手机号' style=" display: block;
+margin: 0 auto;
+  border: 1px solid #EBEBEB;
+outline: none;
+width: 300px;
+height: 40px;
+padding-top: 10px;
+padding-bottom: 10px
+;
+  background: #FFFFFF;
+  border-radius: 6px;
+  font-size: 17px;
+
+position: absolute;
+bottom: 10vh;
+left: 50%;
+margin-left: -150px;
+text-align: center;
+    " type="text">
+    <button style=" background-color: #FCA03F; /* Green */
+    color: white;
+    border-radius: 6px;
+    width: 300px;height: 44px;
+      font-size: 17px;
+  position: absolute;
+left: 50%;
+margin-left: -150px;
+bottom: 1vh;
+    text-align: center;
+    font-size: 16px;" onclick="download()">
+        立即申请
+    </button>
+    <img src="http://papahua.oss-cn-beijing.aliyuncs.com/bg.png"
+         style="width: 100%; cursor: pointer;">
+
+
+</div>
+</body>
+</html>
