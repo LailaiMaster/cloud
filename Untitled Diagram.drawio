@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-01-13T07:26:52.192Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="tl82yjiZPUZEMd808vNu" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-13T07:57:34.417Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="c8Pce8VGOHBHL4IlL60y" version="14.1.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1426" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="5IzvyPoYenIN4oYvT-L3-0" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="5IzvyPoYenIN4oYvT-L3-0" value="" style="whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="320" width="430" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5IzvyPoYenIN4oYvT-L3-1" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -13,7 +13,7 @@
         <mxCell id="5IzvyPoYenIN4oYvT-L3-2" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="200" width="430" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5IzvyPoYenIN4oYvT-L3-3" value="业务1" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="5IzvyPoYenIN4oYvT-L3-3" value="主模块" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="190" y="210" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5IzvyPoYenIN4oYvT-L3-4" value="&lt;span&gt;业务2&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -29,16 +29,51 @@
           <mxGeometry x="55" y="280" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5IzvyPoYenIN4oYvT-L3-8" value="BC端下沉基础" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="45" y="340" width="90" height="20" as="geometry" />
+          <mxGeometry x="65" y="340" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5IzvyPoYenIN4oYvT-L3-9" value="Pins" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="70" y="220" width="40" height="20" as="geometry" />
+          <mxGeometry x="80" y="220" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="5IzvyPoYenIN4oYvT-L3-10" value="Data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="5IzvyPoYenIN4oYvT-L3-10" value="Data" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="270" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5IzvyPoYenIN4oYvT-L3-11" value="Base" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="260" y="270" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5IzvyPoYenIN4oYvT-L3-12" value="1.业务规划、业务拆分" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="70" y="430" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5IzvyPoYenIN4oYvT-L3-13" value="2.业务资源文件整理（命名规范，基础资源文件下沉base-common）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="65" y="450" width="380" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5IzvyPoYenIN4oYvT-L3-15" value="主模块包含未拆分的业务逻辑" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="640" y="220" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5IzvyPoYenIN4oYvT-L3-17" value="安防各端统一的Base" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#000000;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="220" y="340" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5IzvyPoYenIN4oYvT-L3-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5IzvyPoYenIN4oYvT-L3-19" target="5IzvyPoYenIN4oYvT-L3-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5IzvyPoYenIN4oYvT-L3-26" value="使用api依赖" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5IzvyPoYenIN4oYvT-L3-25">
+          <mxGeometry x="-0.1667" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5IzvyPoYenIN4oYvT-L3-19" value="Base" style="whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="870" width="340" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5IzvyPoYenIN4oYvT-L3-21" value="基础依赖库" style="whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="1070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5IzvyPoYenIN4oYvT-L3-22" value="协程、androidx...涂鸦的一些base" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="315" y="1100" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5IzvyPoYenIN4oYvT-L3-23" value="Base对依赖做个收口，避免各模块重复依赖组件且版本不同的问题。&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;不pin入主模块，用于必要业务拆分的支持&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="445" y="880" width="380" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5IzvyPoYenIN4oYvT-L3-27" value="Base" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="840" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
