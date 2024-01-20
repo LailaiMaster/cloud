@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-20T08:03:07.535Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="iy-QZi5e-K-Vdym-kzGs" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-20T08:08:43.295Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="-_CsmNW7_xEueQqdSJmS" version="22.1.15" type="github">
   <diagram name="第 1 页" id="aGH2QpLc68iEzxAH5Frq">
-    <mxGraphModel dx="1774" dy="1170" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2760" dy="1820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="kBOYhMCeE8Wx69wTbL92-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kBOYhMCeE8Wx69wTbL92-1" target="kBOYhMCeE8Wx69wTbL92-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kBOYhMCeE8Wx69wTbL92-1" value="箱子上架" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kBOYhMCeE8Wx69wTbL92-1" value="开始" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="220" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kBOYhMCeE8Wx69wTbL92-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kBOYhMCeE8Wx69wTbL92-2" target="kBOYhMCeE8Wx69wTbL92-11">
@@ -159,7 +159,7 @@
           <mxGeometry x="2320" y="960" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kBOYhMCeE8Wx69wTbL92-63" value="武器箱" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2390" y="965" width="60" height="30" as="geometry" />
+          <mxGeometry x="2390" y="960" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kBOYhMCeE8Wx69wTbL92-64" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2780" y="420" width="490" height="580" as="geometry" />
