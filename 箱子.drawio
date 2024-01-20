@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-20T08:08:43.295Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="-_CsmNW7_xEueQqdSJmS" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-20T08:18:35.659Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="aWyb5td2z9K2W11QIfr3" version="22.1.15" type="github">
   <diagram name="第 1 页" id="aGH2QpLc68iEzxAH5Frq">
-    <mxGraphModel dx="2760" dy="1820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3105" dy="2048" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -166,6 +166,15 @@
         </mxCell>
         <mxCell id="kBOYhMCeE8Wx69wTbL92-65" value="运行日志" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2970" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kBOYhMCeE8Wx69wTbL92-66" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;一键定价存在 压自己价的情况&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2320" y="1080" width="350" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kBOYhMCeE8Wx69wTbL92-67" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;查底价&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2320" y="1160" width="350" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kBOYhMCeE8Wx69wTbL92-68" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;配置&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2320" y="1240" width="350" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
