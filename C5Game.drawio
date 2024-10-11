@@ -1,9 +1,51 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="m9vhq2q0e87dHCPL6pzd">
-    <mxGraphModel>
+    <mxGraphModel dx="2069" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ZYgXHka4m3HWxw24o6Yz-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="400" width="610" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYgXHka4m3HWxw24o6Yz-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="328.5" width="610" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYgXHka4m3HWxw24o6Yz-4" value="租赁" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-109" y="344" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYgXHka4m3HWxw24o6Yz-5" value="Steam管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="11" y="344" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYgXHka4m3HWxw24o6Yz-6" value="Steam加速" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="131" y="344" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYgXHka4m3HWxw24o6Yz-7" value="百科" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="251" y="344" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYgXHka4m3HWxw24o6Yz-8" value="在售" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="371" y="344" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYgXHka4m3HWxw24o6Yz-9" value="商城" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-64" y="420" width="119" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYgXHka4m3HWxw24o6Yz-10" value="库存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="65" y="420" width="119" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYgXHka4m3HWxw24o6Yz-11" value="交易" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="420" width="119" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYgXHka4m3HWxw24o6Yz-12" value="我的" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="420" width="119" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYgXHka4m3HWxw24o6Yz-13" value="...." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-64" y="480" width="119" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYgXHka4m3HWxw24o6Yz-16" value="Flutter" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="349" width="70" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYgXHka4m3HWxw24o6Yz-17" value="原生" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="460" width="70" height="31" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
